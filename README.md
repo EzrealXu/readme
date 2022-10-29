@@ -22,3 +22,5 @@ Add files ```news.sh``` and ```movies.sh``` in the ```LOTClass``` workspace.
 
 Then run ```news.sh``` and ```movies.sh```, you can get the result.
 
+Notice that this model does not depend on the labels, I add the labels just to satisfy the imput requirement, it has no influence on the model or the prediction.
+

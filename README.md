@@ -18,5 +18,7 @@ nltk.download('stopwords')
 
 Replace the ```datasets``` folder from LOTClass with the folder with same name in the file I submit.
 
+Add files ```news.sh``` and ```movies.sh``` in the ```LOTClass``` workspace.
+
 Then run ```news.sh``` and ```movies.sh```, you can get the result.
 
